@@ -1,2 +1,2 @@
-# nano-server
+# mamo-mt
 minecra
